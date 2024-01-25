@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2A40FB91-610B-4515-BD54-B818E62F95A2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "955AE073-C151-4C52-BB59-4E230117DD73"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StudentSnap/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "didTapEdit(indexPAth:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "955AE073-C151-4C52-BB59-4E230117DD73 - fad1e2a2f102ac20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.didTapEdit(indexPAth: Swift.Int) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "955AE073-C151-4C52-BB59-4E230117DD73 - fad1e2a2f102ac20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.didTapEdit(indexPAth: Swift.Int) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "955AE073-C151-4C52-BB59-4E230117DD73 - fad1e2a2f102ac20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.didTapEdit(indexPAth: Swift.Int) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "955AE073-C151-4C52-BB59-4E230117DD73 - fad1e2a2f102ac20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.didTapEdit(indexPAth: Swift.Int) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "955AE073-C151-4C52-BB59-4E230117DD73 - fad1e2a2f102ac20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.didTapEdit(indexPAth: Swift.Int) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1F3353B-FC7E-4F91-80C8-0CCFF786548D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StudentSnap/AddStudentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "AddStudent(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F1F3353B-FC7E-4F91-80C8-0CCFF786548D - 43c4b4ffa441827c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Bool) -&gt; () in StudentSnap.AddStudentViewController.AddStudent(Any) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/AddStudentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "F1F3353B-FC7E-4F91-80C8-0CCFF786548D - 43c4b4ffa441827c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Bool) -&gt; () in StudentSnap.AddStudentViewController.AddStudent(Any) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/AddStudentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7ED9CF2-2163-446D-A33D-11AC09C76A7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StudentSnap/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7ED9CF2-2163-446D-A33D-11AC09C76A7D - 17bb133fe413ff33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "A7ED9CF2-2163-446D-A33D-11AC09C76A7D - 17bb133fe413ff33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "A7ED9CF2-2163-446D-A33D-11AC09C76A7D - 17bb133fe413ff33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "A7ED9CF2-2163-446D-A33D-11AC09C76A7D - 17bb133fe413ff33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "A7ED9CF2-2163-446D-A33D-11AC09C76A7D - 17bb133fe413fff1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "A7ED9CF2-2163-446D-A33D-11AC09C76A7D - 17bb133fe413fff1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "A7ED9CF2-2163-446D-A33D-11AC09C76A7D - 17bb133fe413fff1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "180CDE36-AA8C-4295-9EDA-511256CB7107"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StudentSnap/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "180CDE36-AA8C-4295-9EDA-511256CB7107 - 17bb133fe413ff14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "180CDE36-AA8C-4295-9EDA-511256CB7107 - 17bb133fe413ff14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "180CDE36-AA8C-4295-9EDA-511256CB7107 - 17bb133fe413ffd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.ViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD3F2E02-010F-4E7B-9F40-CB510017C31B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StudentSnap/UtilityClasses/CoreDataHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "fetchWithFilter(filter:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CD3F2E02-010F-4E7B-9F40-CB510017C31B - 5a86045c1e15ee0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.CoreDataHelper.fetchWithFilter(filter: Swift.Int) -&gt; Swift.Array&lt;StudentSnap.Student&gt;"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/UtilityClasses/CoreDataHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "CD3F2E02-010F-4E7B-9F40-CB510017C31B - 5a86045c1e15ee2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.CoreDataHelper.fetchWithFilter(filter: Swift.Int) -&gt; Swift.Array&lt;StudentSnap.Student&gt;"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/UtilityClasses/CoreDataHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18F39A3D-95E9-4B80-B9D9-D589384DF41A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StudentSnap/UtilityClasses/CoreDataHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "save(data:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18F39A3D-95E9-4B80-B9D9-D589384DF41A - dcc15f4dc31203e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.CoreDataHelper.save(data: StudentSnap.StudentModel, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/UtilityClasses/CoreDataHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "792">
+               </Location>
+               <Location
+                  uuid = "18F39A3D-95E9-4B80-B9D9-D589384DF41A - dcc15f4dc31203e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.CoreDataHelper.save(data: StudentSnap.StudentModel, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/UtilityClasses/CoreDataHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "880">
+               </Location>
+               <Location
+                  uuid = "18F39A3D-95E9-4B80-B9D9-D589384DF41A - dcc15f4dc31203e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudentSnap.CoreDataHelper.save(data: StudentSnap.StudentModel, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "StudentSnap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/StudentSnap/StudentSnap/UtilityClasses/CoreDataHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "840">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
